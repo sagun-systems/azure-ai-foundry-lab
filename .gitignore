@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+dist/
+build/
+*.egg-info/
+
+# Credentials & Environment Variables
+.env
+.env.*
+!.env.example
+secrets.json
+
+# IDE & OS files
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db

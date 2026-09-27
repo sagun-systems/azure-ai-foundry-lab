@@ -1,0 +1,8 @@
+azure-ai-projects>=1.0.0b1
+azure-identity>=1.17.1
+azure-ai-contentsafety>=1.0.0
+azure-search-documents>=11.6.0b4
+openai>=1.50.0
+python-dotenv>=1.0.1
+pydantic>=2.8.0
+jupyterlab>=4.2.0
